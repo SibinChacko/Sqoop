@@ -1,0 +1,2 @@
+# Sqoop
+Sqoop Practicals
